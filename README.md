@@ -9,7 +9,7 @@ Designed by [Zhenya Rynzhuk](https://dribbble.com/Zhenya_Artem).
 * GSAP 3.0
 
 ### Demo
- /
+ https://thirsty-stonebraker-eaabd3.netlify.com/
  ---
 ### Project setup
 ```
