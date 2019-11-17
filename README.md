@@ -1,6 +1,17 @@
-# owf-tribute
+# OWF Tribute #
+Tribute page for the past event.
 
-## Project setup
+Designed by [Zhenya Rynzhuk](https://dribbble.com/Zhenya_Artem).
+
+### Used technology: 
+* VueJS
+* VueX
+* GSAP 3.0
+
+### Demo
+ /
+ ---
+### Project setup
 ```
 npm install
 ```
